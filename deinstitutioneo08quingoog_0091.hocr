@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deinstitutioneo08quingoog_0091.png"; bbox 0 0 2840 4778; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 226 1605 1217 2002">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 226 1543 1217 2002">
+     <span class='ocr_line' id='line_1_1' title="bbox 226 1605 1217 1750; baseline -0.03 -22"><span class='ocrx_word' id='word_1_1' title='bbox 226 1631 331 1728; x_wconf 79' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 399 1614 618 1713; x_wconf 71' lang='lat' dir='ltr'><strong>mu</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 665 1605 1217 1750; x_wconf 8' lang='lat' dir='ltr'><strong>QUINTILIANIA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 418 1838 1037 2002; baseline -0.002 1"><span class='ocrx_word' id='word_1_4' title='bbox 418 1838 1037 2002; x_wconf 72' lang='lat' dir='ltr'><strong>ORATdfllAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 158 2095 1331 2310">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 158 2095 1331 2310">
+     <span class='ocr_line' id='line_1_3' title="bbox 158 2095 1331 2310; baseline -0.018 1"><span class='ocrx_word' id='word_1_5' title='bbox 158 2095 1331 2310; x_wconf 73' lang='lat' dir='ltr'>INSTITUTloleas</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 538 2449 929 2530">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 538 2449 929 2530">
+     <span class='ocr_line' id='line_1_4' title="bbox 538 2449 929 2530; baseline 0.005 -8"><span class='ocrx_word' id='word_1_6' title='bbox 538 2449 789 2529; x_wconf 83' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_7' title='bbox 845 2451 929 2530; x_wconf 80' lang='lat' dir='ltr'><strong>XII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1424 4778">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1424 4778">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1424 4778; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1424 4778; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
